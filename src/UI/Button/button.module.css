@@ -1,0 +1,69 @@
+.btn {
+  border: none;
+  border-radius: 5px;
+  padding: 7px;
+  font-size: 15px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.detail {
+  width: 100%;
+  padding: 12px;
+  border-radius: 10px;
+  background: #f97316;
+  color: white;
+  font-weight: 600;
+  transition: 0.25s;
+  margin-top: 8px;
+}
+.detail:hover {
+  background: #ea580c;
+}
+
+.variants {
+  width: 80%;
+  padding: 14px 18px;
+  margin-bottom: 12px;
+  font-size: 20px;
+  border: 1px solid #d6d6d6;
+  background: var(--color-orange);
+  cursor: pointer;
+  text-align: left;
+  border-radius: 8px;
+  transition: 0.25s;
+}
+
+.variants:hover {
+  background: #ea580c;
+}
+
+.variantsActive {
+  width: 90%;
+  padding: 14px 18px;
+  margin-bottom: 12px;
+  font-size: 20px;
+  border: 1px solid #d6d6d6;
+  background: #0f49f8;
+  cursor: pointer;
+  text-align: left;
+  border-radius: 8px;
+  transition: 0.25s;
+}
+.buyBTN {
+  width: 40%;
+  padding: 14px 18px;
+  margin-bottom: 12px;
+  font-size: 22px;
+  background: white;
+  border: 1px solid #d6d6d6;
+  background: #28822d;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 8px;
+  transition: 0.25s;
+}
+
+.buyBTN:hover {
+  background: #0d6b1f;
+}

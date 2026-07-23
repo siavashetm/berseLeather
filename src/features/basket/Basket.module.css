@@ -1,0 +1,108 @@
+.basketContainer {
+  width: 100%;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  background: rgb(205, 204, 204);
+  border-radius: 12px;
+  padding-bottom: 15px;
+}
+
+.renderItem {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 20px;
+  align-items: center;
+  padding: 20px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 12px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: 0.25s;
+  font-weight: 1000;
+  letter-spacing: 1px;
+}
+.item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 15px rgba(0, 0, 0, 0.1);
+}
+
+.item img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.btnDelete {
+  font-size: 15px;
+  background: var(--color-red);
+  border: 1px solid #ea0303;
+  color: #fbfbfb;
+  width: 90%;
+  border-radius: 8px;
+  height: 30px;
+  font-weight: 1000;
+  letter-spacing: 2px;
+  transition: 0.25s;
+}
+.btnDelete:hover {
+  background: #bc1717;
+  width: 80%;
+}
+
+.priceContainer {
+  display: grid;
+  grid-template-columns: 60% 20%;
+  align-items: center;
+  width: 800px;
+  gap: 40px;
+  height: 30px;
+}
+.notBasket {
+  width: 100%;
+  color: rgb(255, 0, 0);
+  height: 30px;
+  font-size: 25px;
+  font-weight: 1000;
+  letter-spacing: 2px;
+  padding-bottom: 15px;
+}
+
+.price {
+  width: 100%;
+  background: #28822d;
+  border: 1px solid #28822d;
+  color: rgb(0, 0, 0);
+  border-radius: 8px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 1000;
+  letter-spacing: 2px;
+  transition: 0.25s;
+}
+.price:hover {
+  background: #0d6b1f;
+}
+
+.closeBasket {
+  width: 100%;
+  background: var(--color-yellow);
+  border: 1px solid #dcca04;
+  color: rgb(0, 0, 0);
+  border-radius: 8px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 1000;
+  letter-spacing: 2px;
+  transition: 0.25s;
+}
+.closeBasket:hover {
+  background: var(--color-red);
+}

@@ -1,0 +1,19 @@
+.title {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.title span {
+  flex: 1;
+  height: 2px;
+  background-color: #ccc;
+}
+
+.title h2 {
+  margin: 0;
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}

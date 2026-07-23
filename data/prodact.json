@@ -1,0 +1,248 @@
+{
+  "products": [
+    {
+      "category": "men",
+      "type": "office-bag",
+      "name": "lovik",
+      "id": "249",
+      "price": 220,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black flooter" },
+          { "color": "brown", "leather": "brown lizard" }
+        ],
+        "firstDetails": "band doshi and sardoshi",
+        "inside": ["faza do table", "ja karti", "ja mobile", "jib posht"],
+        "daste": "men office bag"
+      },
+      "img": ["/249-1.jpg", "/249-2.jpg", "/249-3.jpg"]
+    },
+    {
+      "category": "men",
+      "type": "office-bag",
+      "name": "tiran",
+      "id": "490",
+      "price": 229,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black flooter" },
+          { "color": "brown", "leather": "brown lizard" }
+        ],
+        "firstDetails": "do jib pish",
+        "inside": ["lap top 15 inch", "ja karti", "ja mobile", "jib posht"],
+        "daste": "men office bag"
+      },
+      "img": ["/490-1.jpg", "/490-2.jpg"]
+    },
+    {
+      "category": "men",
+      "type": "office-bag",
+      "name": "sumsunet",
+      "id": "945",
+      "price": 239,
+      "details": {
+        "variants": [{ "color": "black", "leather": "black flooter" }],
+        "firstDetails": "wood and leather",
+        "inside": ["lap top 15 inch", "ja karti", "ja mobile", "jib posht"],
+        "daste": "men office bag"
+      },
+      "img": ["/945-1.jpg", "/945-2.jpg"]
+    },
+    {
+      "category": "men",
+      "type": "office-bag",
+      "name": "hirad classic",
+      "id": "461",
+      "price": 250,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black elegant" },
+          { "color": "asali", "leather": "asali elegant" }
+        ],
+        "firstDetails": "2 qofl ramz dar",
+        "inside": [
+          "faza do table",
+          "ja karti",
+          "ja mobile",
+          "jib posht",
+          "jib va zip posht"
+        ],
+        "daste": "men office bag"
+      },
+      "img": ["/461-1.jpg", "/461-2.jpg", "/461-3.jpg"]
+    },
+    {
+      "category": "women",
+      "type": "office-bag",
+      "name": "jale",
+      "id": "260",
+      "price": 210,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black roko" },
+          { "color": "brown", "leather": "brown roko" },
+          { "color": "sormei", "leather": "sormei khavaran" }
+        ],
+        "firstDetails": "2 jib",
+        "inside": ["posht jib", "ja karti", "ja mobile", "band va sardoshi"],
+        "daste": "women office bag"
+      },
+      "img": ["/260-1.jpg", "/260-2.jpg", "/260-3.jpg"]
+    },
+    {
+      "category": "women",
+      "type": "office-bag",
+      "name": "kalege",
+      "id": "128",
+      "price": 215,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black roko" },
+          { "color": "brown", "leather": "brown roko" },
+          { "color": "asali", "leather": "asali elegant" }
+        ],
+        "firstDetails": "band doshi and sardoshi",
+        "inside": ["pish jib", "ja karti", "ja mobile", "band va sardoshi"],
+        "daste": "women office bag"
+      },
+      "img": ["/128-1.jpg", "/128-2.jpg", "/128-3.jpg"]
+    },
+    {
+      "category": "women",
+      "type": "majlesi",
+      "name": "parniyan",
+      "id": "111",
+      "price": 188,
+      "details": {
+        "variants": [{ "color": "black", "leather": "black roko" }],
+        "firstDetails": "band dasti",
+        "inside": ["pish jib", "jib baqal"],
+        "daste": "women majlesi bag"
+      },
+      "img": ["/111-1.jpg"]
+    },
+    {
+      "category": "women",
+      "type": "majlesi",
+      "name": "nahal",
+      "id": "155",
+      "price": 183,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black roko" },
+          { "color": "brown", "leather": "brown lizard" }
+        ],
+        "firstDetails": "band doshi zanjir and leather",
+        "inside": ["pish jib", "dakhel 3 tike"],
+        "daste": "women majlesi bag"
+      },
+      "img": ["/155-1.jpg", "/155-2.jpg", "/155-3.jpg"]
+    },
+    {
+      "category": "women",
+      "type": "majlesi",
+      "name": "niyosha",
+      "id": "147",
+      "price": 170,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black flooter" },
+          { "color": "brown", "leather": "brown lizard" }
+        ],
+        "firstDetails": "band doshi and dasti zanjir",
+        "inside": ["1 jib zip dar"],
+        "daste": "women majlesi bag"
+      },
+      "img": ["/147-1.jpg", "/147-2.jpg", "/147-3.jpg"]
+    },
+    {
+      "category": "women",
+      "type": "doshi",
+      "name": "ailin",
+      "id": "665",
+      "price": 120,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black flooter" },
+          { "color": "brown", "leather": "brown flooter" },
+          { "color": "yellow", "leather": "yellow flooter" },
+          { "color": "blue", "leather": "blue flooter" }
+        ],
+        "firstDetails": "band doshi and dasti zanjir",
+        "inside": ["1 jib"],
+        "daste": "women doshi bag"
+      },
+      "img": ["/665-1.jpg", "/665-2.jpg", "/665-3.jpg"]
+    },
+    {
+      "category": "women",
+      "type": "doshi",
+      "name": "dast chin",
+      "id": "103",
+      "price": 140,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black flooter" },
+          { "color": "green", "leather": "green kheshti" }
+        ],
+        "firstDetails": "band berezent qable tanzim ",
+        "inside": ["1 jib baqal", "ja mobile"],
+        "daste": "women doshi bag"
+      },
+      "img": ["/103-1.jpg", "/103-2.jpg", "/103-3.jpg"]
+    },
+    {
+      "category": "women",
+      "type": "doshi",
+      "name": "narvan",
+      "id": "622",
+      "price": 182,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black flooter" },
+          { "color": "green", "leather": "green flooter" },
+          { "color": "red", "leather": "red lizard" },
+          { "color": "white", "leather": "white flooter" }
+        ],
+        "firstDetails": "band doshi and dasti",
+        "inside": ["band mochi", "ja mobile"],
+        "daste": "women doshi bag"
+      },
+      "img": ["/622-1.jpg", "/622-2.jpg", "/622-3.jpg"]
+    },
+    {
+      "category": "men",
+      "type": "doshi",
+      "name": "loshan",
+      "id": "688",
+      "price": 152,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black flooter" },
+          { "color": "brown", "leather": "brown lizard" }
+        ],
+        "firstDetails": "band doshi",
+        "inside": ["tabli akardeoni", "ja mobile", "ja karti", "ja key"],
+        "daste": "men doshi bag"
+      },
+      "img": ["/688-1.jpg", "/688-2.jpg", "/688-3.jpg"]
+    },
+    {
+      "category": "men",
+      "type": "passporti",
+      "name": "kiya",
+      "id": "611",
+      "price": 252,
+      "details": {
+        "variants": [
+          { "color": "black", "leather": "black flooter" },
+          { "color": "brown", "leather": "brown roko" }
+        ],
+        "firstDetails": "band doshi",
+        "inside": ["ja mobile", "ja karti", "ja key"],
+        "daste": "men passporti bag"
+      },
+      "img": ["/611-1.jpg", "/611-2.jpg", "/611-3.jpg"]
+    }
+  ]
+}
